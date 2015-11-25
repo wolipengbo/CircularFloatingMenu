@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dimens_dp_61">61dp</dimen>
+    <!--CircularFloatingMenu 控件属性默认的值 -->
+    <dimen name="CFMDefaultRadius">120dp</dimen>
+    <integer name="CFMDefaultDegrees">120</integer>
+    <integer name="CFMDefaultStartDegrees">210</integer>
+</resources>
