@@ -10,7 +10,7 @@ An animated circular floating menu for Android, inspired by Path app.
 
 ## Getting Started
 ### Requirements
-- API >= 11
+- API >= 15
 
 ### Usage
 CircularFloatingMenu can be attached to **any view** in your layout. CircularFloatingMenu is extends RelativeLayout. 
